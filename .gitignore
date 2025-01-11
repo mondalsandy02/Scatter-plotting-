@@ -4,5 +4,8 @@ __pycache__/
 *.pkl
 *.log
 
+# Ignore all .idx files
 *.idx
-.vnv/
+
+# Ignore all .env files
+*.env
